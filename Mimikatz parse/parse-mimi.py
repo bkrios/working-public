@@ -2,6 +2,7 @@
 # Parses a Mimikatz dump (mimikatz # sekurlsa::logonPasswords)
 # and extracts DOMAIN/USERNAME:PASSWORD
 #
+# Useful when dealing with large mimikatz dumps... like dumps from an active Exchange server :)
 
 
 import sys
